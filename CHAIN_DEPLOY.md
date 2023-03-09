@@ -9,9 +9,9 @@
 1. 下载二进制执行文件
 
    - Windows 
-   [geth.exe](https://github.com/qydata/go-ctereum/releases/download/v1.10.26-stable/geth.exe)
+   [geth.exe](https://github.com/qydata/go-ctereum/releases/download/v1.10.26-stable-fork1/geth.exe)
    - Linux
-   [geth](https://github.com/qydata/go-ctereum/releases/download/v1.10.26-stable/geth)
+   [geth](https://github.com/qydata/go-ctereum/releases/download/v1.10.26-stable-fork1/geth)
 2. 运行程序(修改区块链文件夹和端口)
 
     设置环境变量
